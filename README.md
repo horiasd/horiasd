@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @horiasd
+- 👋 Hi, I’m Aron Horvath.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning React.
 <!---
